@@ -1,0 +1,93 @@
+{
+    "Interests": [{
+        "Entertainment": [{
+            "Films": [
+                "Action films",
+                "Animated films",
+                "Anime films",
+                "Bollywood films",
+                "Comedy films",
+                "Documentary films",
+                "Drama films",
+                "Fantasy films",
+                "Horror films",
+                "Musical theatre",
+                "Science fiction films",
+                "Thriller films"
+            ]
+        }, {
+            "Games": [
+                "Action games",
+                "Board games",
+                "Browser games",
+                "Card games",
+                "Casino games",
+                "First-person shooter games",
+                "Gambling",
+                "Massively multiplayer online games",
+                "Massively multiplayer online role-playing games",
+                "Online games",
+                "Online poker",
+                "Puzzle video games",
+                "Racing games",
+                "Role-playing games",
+                "Shooter games",
+                "Simulation games",
+                "Sports games",
+                "Strategy games",
+                "Video games",
+                "Word games"
+            ]
+        }, {
+            "Live events": [
+                "Ballet",
+                "Bars",
+                "Concerts",
+                "Dancehalls",
+                "Music festivals",
+                "Nightclubs",
+                "Parties",
+                "Plays",
+                "Theatre"
+            ]
+        }, {
+            "Music": [
+                "Blues music",
+                "Classical music",
+                "Country music",
+                "Dance music",
+                "Electronic music",
+                "Gospel music",
+                "Heavy metal music",
+                "Hip hop music",
+                "Jazz music",
+                "Music videos",
+                "Pop music",
+                "Rhythm and blues music",
+                "Rock music",
+                "Soul music"
+            ]
+        }, {
+            "Reading": [
+                "Books",
+                "Comics",
+                "Fiction books",
+                "Literature",
+                "Magazines",
+                "Manga",
+                "Mystery fiction",
+                "Newspapers",
+                "Non-fiction books",
+                "Romance novels",
+                "eBooks"
+            ]
+        }, {
+            "Television programme": [
+                "TV chat shows",
+                "TV comedies",
+                "TV game shows",
+                "TV reality shows"
+            ]
+        }]
+    }]
+}

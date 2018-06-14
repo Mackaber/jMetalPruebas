@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-11T17:57:09</date>
+  <millis>1528757829382</millis>
+  <sequence>6</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>15</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2018-06-11T17:57:09</date>
+  <millis>1528757829410</millis>
+  <sequence>7</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printQualityIndicators</method>
+  <thread>15</thread>
+  <message>
+Hypervolume (N) : 0.308118076239835
+Hypervolume     : 0.3334569888112378
+Epsilon (N)     : 0.01061950455022631
+Epsilon         : 0.010423116427097145
+GD (N)          : 3.1748579139870997E-4
+GD              : 3.1161447806219E-4
+IGD (N)         : 3.10519290962376E-4
+IGD             : 3.047768101847578E-4
+IGD+ (N)        : 0.004389924005069476
+IGD+            : 0.00430874046849696
+Spread (N)      : 0.3970182490636289
+Spread          : 0.39701824906362887
+Error ratio     : 1.0
+</message>
+</record>
+<record>
+  <date>2018-06-11T18:31:10</date>
+  <millis>1528759870881</millis>
+  <sequence>9</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printQualityIndicators</method>
+  <thread>15</thread>
+  <message>
+Hypervolume (N) : 0.30794696331569965
+Hypervolume     : 0.33328668822575963
+Epsilon (N)     : 0.016913705181023753
+Epsilon         : 0.016600917442203045
+GD (N)          : 3.5313357631596505E-4
+GD              : 3.466030230365175E-4
+IGD (N)         : 3.1657950528976537E-4
+IGD             : 3.1072495204097954E-4
+IGD+ (N)        : 0.004555395095415865
+IGD+            : 0.004471151476641627
+Spread (N)      : 0.331346505832716
+Spread          : 0.3313465058327156
+Error ratio     : 1.0
+</message>
+</record>
+<record>
+  <date>2018-06-11T18:32:09</date>
+  <millis>1528759929546</millis>
+  <sequence>11</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
+  <method>printQualityIndicators</method>
+  <thread>15</thread>
+  <message>
+Hypervolume (N) : 0.30810964487089765
+Hypervolume     : 0.33344873588262774
+Epsilon (N)     : 0.013353341889988823
+Epsilon         : 0.013106396494478756
+GD (N)          : 3.3266239194202095E-4
+GD              : 3.265104154086372E-4
+IGD (N)         : 3.087727150596566E-4
+IGD             : 3.0306253397754804E-4
+IGD+ (N)        : 0.004226256263719275
+IGD+            : 0.004148099459739467
+Spread (N)      : 0.4287665610471346
+Spread          : 0.42876656104713495
+Error ratio     : 1.0
+</message>
+</record>
+</log>
